@@ -14,7 +14,11 @@
     :briefcase: LinkedIn: https://www.linkedin.com/in/alicia-ripoll-ortega/ <br>
     <br>
     
-![Aliripoll's github stats](https://github-readme-stats.vercel.app/api?username=Aliripoll&show_icons=true&theme=radical)
+<p align="center"> 
+  <i><b>Profile Visitor Count...</b></i><br>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
+  <img src="https://profile-counter.glitch.me/lostgirljourney/count.svg" />
+</p>
 
 ![Dino](https://raw.githubusercontent.com/sanket9006/sanket9006/master/dino.gif)
   </samp>
