@@ -9,7 +9,7 @@
     :sparkles: Languages: HTML5, CSS3, SASS, JS, REACT <br>
     :notebook: Tools: Github, Visual Code, Git, Slack <br>
     :email:	aripollortega@gmail.com <br>
-    :art: Portfolio: //En construcción// <br>
+    :art: Portfolio: https://aliripoll.github.io/portfolio/#/AboutMe <br>
     :pencil: Twitter: https://twitter.com/aliripoll <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/alicia-ripoll-ortega/ <br>
     <br>
